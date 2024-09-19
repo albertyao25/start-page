@@ -1,0 +1,46 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #2F0206;
+  --color-bg-base: #3B0207;
+  --color-bg-surface: #470208;
+  --color-bg-highlight: #53030A;
+  --color-fg-shade: #98BE9E;
+  --color-fg-base: #CCDFCF;
+  --color-fg-surface: #FFFFFF;
+  --color-fg-highlight: #FFFFFF;
+  --color-primary-bg: #7A030D;
+  --color-primary-base: #F4051B;
+  --color-primary-fg: #FC7985;
+  --color-secondary-bg: #48040A;
+  --color-secondary-base: #900814;
+  --color-secondary-fg: #D80C1E;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: Quicksand;
+  --font-size: 1;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1000px;
+  --surface-shadow: 12px 12px 0px rgb(122, 3, 13), 24px 24px 0px rgb(109.5, 3.25, 12.25), 36px 36px 0px rgb(97, 3.5, 11.5), 48px 48px 0px rgb(84.5, 3.75, 10.75), 60px 60px 0px rgb(72, 4, 10);
+  --surface-borderRadius: 0px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 3;
+}
